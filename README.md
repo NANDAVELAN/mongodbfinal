@@ -1,4 +1,4 @@
-# Exp 7 CRUD Operations on Products Collection using MongoDB
+# Exp 8 CRUD Operations on Products Collection using MongoDB
 
 **Name:** Nandavelan SPS
 
